@@ -24,9 +24,11 @@ let package = Package(
     targets: [
         .target(
             name: "AlamofireObjectMapper",
+            path: "AlamofireObjectMapper",
             dependencies: []),
         .testTarget(
             name: "AlamofireObjectMapperTests",
+            path: "AlamofireObjectMapperTests",
             dependencies: ["AlamofireObjectMapper"]),
     ]
 )
