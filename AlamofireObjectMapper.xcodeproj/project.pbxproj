@@ -162,10 +162,8 @@
 
 /* Begin PBXFileReference section */
 		6AB2A0111AF26C36001EBB20 /* AlamofireObjectMapper.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AlamofireObjectMapper.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		6AB2A0151AF26C36001EBB20 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6AB2A0161AF26C36001EBB20 /* AlamofireObjectMapper.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AlamofireObjectMapper.h; sourceTree = "<group>"; };
 		6AB2A01C1AF26C36001EBB20 /* AlamofireObjectMapperTests iOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "AlamofireObjectMapperTests iOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6AB2A0221AF26C36001EBB20 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6AB2A0231AF26C36001EBB20 /* AlamofireObjectMapperTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlamofireObjectMapperTests.swift; sourceTree = "<group>"; };
 		6AB2A02D1AF2746D001EBB20 /* AlamofireObjectMapper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlamofireObjectMapper.swift; sourceTree = "<group>"; };
 		6AB2A0851AF27DF1001EBB20 /* AlamofireObjectMapper.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AlamofireObjectMapper.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -281,7 +279,6 @@
 		6AB2A0141AF26C36001EBB20 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				6AB2A0151AF26C36001EBB20 /* Info.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -298,7 +295,6 @@
 		6AB2A0211AF26C36001EBB20 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				6AB2A0221AF26C36001EBB20 /* Info.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
